@@ -5,3 +5,6 @@
 [submodule "RegionalConsistency"]
 	path = RegionalConsistency
 	url = https://github.com/gosukehommaex/regionalconsistency
+[submodule "bbssr"]
+	path = bbssr
+	url = https://github.com/gosukehommaex/bbssr
