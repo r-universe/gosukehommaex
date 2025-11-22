@@ -8,3 +8,6 @@
 [submodule "bbssr"]
 	path = bbssr
 	url = https://github.com/gosukehommaex/bbssr
+[submodule "twoCoprimary"]
+	path = twoCoprimary
+	url = https://github.com/gosukehommaex/twocoprimary
