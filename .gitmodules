@@ -8,6 +8,9 @@
 [submodule "bbssr"]
 	path = bbssr
 	url = https://github.com/gosukehommaex/bbssr
+[submodule "simFastBOIN"]
+	path = simFastBOIN
+	url = https://github.com/gosukehommaex/simfastboin
 [submodule "twoCoprimary"]
 	path = twoCoprimary
 	url = https://github.com/gosukehommaex/twocoprimary
