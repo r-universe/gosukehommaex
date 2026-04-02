@@ -5,6 +5,9 @@
 [submodule "RegionalConsistency"]
 	path = RegionalConsistency
 	url = https://github.com/gosukehommaex/regionalconsistency
+[submodule "SingleArmMRCT"]
+	path = SingleArmMRCT
+	url = https://github.com/gosukehommaex/singlearmmrct
 [submodule "bbssr"]
 	path = bbssr
 	url = https://github.com/gosukehommaex/bbssr
