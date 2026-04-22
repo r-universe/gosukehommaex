@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BayesianQDM"]
+	path = BayesianQDM
+	url = https://github.com/gosukehommaex/bayesianqdm
 [submodule "RegionalConsistency"]
 	path = RegionalConsistency
 	url = https://github.com/gosukehommaex/regionalconsistency
