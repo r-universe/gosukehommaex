@@ -5,6 +5,9 @@
 [submodule "BayesianQDM"]
 	path = BayesianQDM
 	url = https://github.com/gosukehommaex/bayesianqdm
+[submodule "FastSurvival"]
+	path = FastSurvival
+	url = https://github.com/gosukehommaex/fastsurvival
 [submodule "RegionalConsistency"]
 	path = RegionalConsistency
 	url = https://github.com/gosukehommaex/regionalconsistency
