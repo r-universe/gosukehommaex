@@ -5,6 +5,9 @@
 [submodule "BayesianQDM"]
 	path = BayesianQDM
 	url = https://github.com/gosukehommaex/bayesianqdm
+[submodule "DesignComplexSurvival"]
+	path = DesignComplexSurvival
+	url = https://github.com/gosukehommaex/designcomplexsurvival
 [submodule "FastSurvival"]
 	path = FastSurvival
 	url = https://github.com/gosukehommaex/fastsurvival
